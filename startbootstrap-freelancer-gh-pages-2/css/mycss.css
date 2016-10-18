@@ -1,0 +1,15 @@
+header .intro-text .name {
+    font-size: 8.75em;
+    background-color: blue;
+  }
+
+header .intro-text .skills {
+  font-size: 5.25em;
+  font-weight: 300;
+  font-family: times, arial;
+}
+
+a.active {
+  color: green;
+  outline: none;
+}
